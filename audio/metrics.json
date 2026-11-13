@@ -1,0 +1,71 @@
+{
+  "sample_rate_hz": 48000,
+  "channels": 2,
+  "pcm_bits": 24,
+  "duration_seconds": 30.0,
+  "samples_per_channel": 1440000,
+  "max_sample_peak_dbfs": -3.0,
+  "rms_dbfs": -20.506936257119776,
+  "last_second_peak": 0.0,
+  "original_generation": "deterministic additive synthesis and filtered seeded noise; no samples; no external services",
+  "human_listening": "NOT_PERFORMED",
+  "events": [
+    {
+      "time": 1.0,
+      "cue": "weighted paper-cut/cash-register sale"
+    },
+    {
+      "time": 3.8,
+      "cue": "weighted paper-cut/cash-register sale"
+    },
+    {
+      "time": 6.7,
+      "cue": "weighted paper-cut/cash-register sale"
+    },
+    {
+      "time": 8.2,
+      "cue": "weighted paper-cut/cash-register sale"
+    },
+    {
+      "time": 9.6,
+      "cue": "weighted paper-cut/cash-register sale"
+    },
+    {
+      "time": 11.2,
+      "cue": "complete removal of machinery; warm struck tones"
+    },
+    {
+      "time": 12.0,
+      "cue": "soft two-tone phone ping"
+    },
+    {
+      "time": 16.3,
+      "cue": "restrained empty-room resonance and slow isolated ticks"
+    },
+    {
+      "time": 20.2,
+      "cue": "short paper feed"
+    },
+    {
+      "time": 23.3,
+      "cue": "subdued dry negative stamp"
+    },
+    {
+      "time": 25.2,
+      "cue": "unresolved F minor/add9 chord and suspended upper G"
+    }
+  ],
+  "sha256": "6a3b70aefe873572cab0ff6e9f17ac4380a9babcca6b741b438b33c9f1b62d3d",
+  "artifacts": [
+    "/Volumes/EXTERNAL/自媒体/独立创作测试/假如时间可以买卖-20261015-astra-ultra/audio/synth.py",
+    "/Volumes/EXTERNAL/自媒体/独立创作测试/假如时间可以买卖-20261015-astra-ultra/audio/soundtrack.wav",
+    "/Volumes/EXTERNAL/自媒体/独立创作测试/假如时间可以买卖-20261015-astra-ultra/audio/metrics.json"
+  ],
+  "ffmpeg_loudnorm_input_measurements": {
+    "input_i": "-17.51",
+    "input_tp": "-2.99",
+    "input_lra": "17.70",
+    "input_thresh": "-28.57",
+    "note": "Input measurement only. WAV was not normalized by ffmpeg."
+  }
+}

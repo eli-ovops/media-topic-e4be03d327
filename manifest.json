@@ -1,0 +1,40 @@
+{
+  "title": "假如时间可以买卖",
+  "status": "EXPORTED_AND_BOUNDED_SELF_CHECKED",
+  "user_acceptance": "PENDING",
+  "continuous_av_review": "NOT_PERFORMED",
+  "artifacts": {
+    "exports/假如时间可以买卖.mp4": {
+      "bytes": 8667380,
+      "sha256": "ee268ad2e974e3180b16dbb816a8a2d91270cf5b0bbcd842c52cd3394cf25d2d"
+    },
+    "source/film.py": {
+      "bytes": 21260,
+      "sha256": "935bd741807eac955b5e90f2f2c56fbdab65bf777d4b8d22196012d7fde07a01"
+    },
+    "audio/synth.py": {
+      "bytes": 7176,
+      "sha256": "2bb87193fca8b828e5ec684ffc91870e0fd510a950499d404b7906033e8a99d3"
+    },
+    "audio/soundtrack.wav": {
+      "bytes": 8640044,
+      "sha256": "6a3b70aefe873572cab0ff6e9f17ac4380a9babcca6b741b438b33c9f1b62d3d"
+    },
+    "audio/metrics.json": {
+      "bytes": 2009,
+      "sha256": "d2f0a3007b73fea62aa86565bccf82187532a987a5c6fc67a7b24b85347c4c1c"
+    },
+    "qa/verify.py": {
+      "bytes": 3664,
+      "sha256": "e38b0574e6193dc686b6c031fc2830e5c72fe47147f66fed98323b8efdaf830d"
+    },
+    "qa/verification.json": {
+      "bytes": 3483,
+      "sha256": "6d8be82ada83ae5d6ef6f8473c738470119c4d6b30db4d2b5c1c3e3333437630"
+    },
+    "交付说明.md": {
+      "bytes": 3696,
+      "sha256": "a6a4f0aa66ea8ff5e72c2760205a5d712f2f0521316aefabccb643ce99a0c542"
+    }
+  }
+}
